@@ -3,6 +3,7 @@
 | Section | Url |
 |:----- |:-----|
 | Website | https://hypha.earth/ |
+| Discord | https://discord.gg/JfM7Tv3MQk |
 | DAO | https://dao.hypha.earth/hypha/ |
 | My Profile | https://dao.hypha.earth/hypha/@dsanichwebjs |
 
